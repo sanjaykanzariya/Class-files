@@ -1,0 +1,105 @@
+25/08/2019:
+
+CRISP DM - coined by IBM
+
+David J. Malan - First two videos of CS50 - assignment for next week
+Start with Why by Simon Sinek
+Python Cookbook pdf by Packt Publication
+Packt Publication books
+
+
+Passwords for wifi:
+Dexlab@nalytics
+Data@nalytics
+
+Programming Language:
+Data Structures are the grammer of the language.
+Python is easy in sytax and has relatively more inbuilt functions compared to C.
+written in JAVA and C.
+IDE - Integrated Development Environment
+
+Compiler -> Interpreter -> Machine Language
+
+Inbuilt functions in Python
+1. type
+2. print
+3. len
+4. int
+5. float
+
+Variable creation rule:
+small letters recommended, CASE sensitive
+cannot start with number
+no special character allowed except _
+
+
+31/08/2019:
+
+Data Structure
+int, float, strings
+list, tuples, dictionaries, sets, boolean
+
+Strings: PY-2 ASCII (256 characters), PY-3: Unicode (alphabets+numbers+special characters)
+need to use double quotes due to an apostrophy s.
+strings are indexed in python or in sequence.
+
+slicing -> [start:stop:step size]
+
+Strings methods
+<string variable>. *press tab* lists all the methods, put parentheses (), press shift + tab
+
+Assignment-1: (9th Sept)
+1) Use at least 10 methods of strings, state their use with examples.
+2) Create a string inside a string and why?
+3) Note on unicode. Read about it.
+
+mutbility = property to change the indexing with a number
+immutability = cannot change the indexing for a string
+
+Assignment-2: (10th Sept)
+1) Use at least 10 list methods and state their use with examples.
+2) Explain mutability and immutability with examples. Why it is important?
+
+github account create and upload the assignment.
+Repository name - Abhijit's account
+
+
+ipynb = interactive python notebook
+doc or txt for queries
+
+
+Tuple: immutable lists
+
+you can change the tuple to list then how does it make the code secure, where is the security?
+
+Dictionaries:
+
+mapping of key and value.
+
+to create a dictionary -> {k1:v1, k2:v2}
+
+Q: Can list be a key of a dictionary? Yes, even a tuple can be.
+
+
+01/09/2019:
+
+
+* Sets:-
+
+sets are collection of unique elements.
+ defined in curly braces.
+s1 = {1, 2, 3}
+
+
+Assignment:
+
+1) methods of sets with examples.
+
+Booleans:
+
+They are used to evaluate a condition or an expression.
+
+* Conditionals:-
+
+if and else loop with different conditions
+4 sapces of indent
